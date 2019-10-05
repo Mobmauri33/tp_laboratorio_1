@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1557546733 source:c:\users\laura\desktop\repositorio\tp2\abmracca\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_strings.h"
+
+1557546850 c:\users\laura\desktop\repositorio\tp2\abmracca\arrayemployees.h
+
+1557536986 c:\users\laura\desktop\repositorio\tp2\abmracca\utn_strings.h
+
+1557545547 source:c:\users\laura\desktop\repositorio\tp2\abmracca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_strings.h"
+
+1557536986 source:c:\users\laura\desktop\repositorio\tp2\abmracca\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_strings.h"
+
+1570243566 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_2_abmracca\abmracca\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_strings.h"
+
+1570242746 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_2_abmracca\abmracca\arrayemployees.h
+
+1570233133 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_2_abmracca\abmracca\utn_strings.h
+
+1570243682 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_2_abmracca\abmracca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_strings.h"
+
+1561780426 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_2_abmracca\abmracca\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_strings.h"
+

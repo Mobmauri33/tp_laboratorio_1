@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn_strings.h"
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\linkedlist.h
+
+1562905521 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\employee.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\parser.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\utn_strings.h
+
+1562440806 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\utn.h
+
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+	"LinkedList.h"
+	"utn_strings.h"
+	"Controller.h"
+
+1562905624 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn_strings.h"
+
+1562905624 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\controller.h
+	"Employee.h"
+	"utn_strings.h"
+
+1562905846 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	<string.h>
+
+1562873312 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp_3\win_64\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn_strings.h"
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\linkedlist.h
+
+1562905521 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\employee.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\parser.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\utn_strings.h
+
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+	"LinkedList.h"
+	"utn_strings.h"
+	"Controller.h"
+
+1562905624 c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\controller.h
+	"Employee.h"
+	"utn_strings.h"
+
+1562905624 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn_strings.h"
+
+1562905846 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	<string.h>
+
+1562873312 source:c:\users\laura\desktop\repositorio\tp_laboratorio_1\tp3rehecho_laboratorio_1\tp_3_racca\win_64\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn_strings.h"
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\linkedlist.h
+
+1562905521 c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\employee.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\parser.h
+
+1561780426 c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\utn_strings.h
+
+1562906636 source:c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+	"LinkedList.h"
+	"utn_strings.h"
+	"Controller.h"
+
+1562905624 c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\controller.h
+	"Employee.h"
+	"utn_strings.h"
+
+1562905624 source:c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn_strings.h"
+
+1562905846 source:c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	<string.h>
+
+1562873312 source:c:\users\laura\desktop\repositorio\tp_laboratorio1segundocuatri\tp_laboratorio_1\tp_3_racca\win_64\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_strings.h"
+
